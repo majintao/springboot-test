@@ -16,5 +16,6 @@
 	
 	<modules>
 		<module>cache-test-1</module>
+		<module>cache-test-2</module>
 	</modules>
 </project>
