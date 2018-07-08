@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2017-2018 Thinkfly
+\ * Copyright (c) 2017-2018 Thinkfly
  */
 package com.github.jtmark;
 
