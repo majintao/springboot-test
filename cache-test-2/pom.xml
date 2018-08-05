@@ -11,10 +11,9 @@
 	<url>http://maven.apache.org</url>
 
 	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.10.RELEASE</version>
-		<relativePath />
+		<groupId>com.github.jtmark</groupId>
+		<artifactId>springboot-test</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
 	<properties>
@@ -46,17 +45,7 @@
 			<artifactId>jetcache-starter-redis</artifactId>
 			<version>2.5.4</version>
 		</dependency>
-
 	</dependencies>
-
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 
 
 </project>
